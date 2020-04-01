@@ -1,0 +1,56 @@
+body{
+	background-image : url("file:///C:/Users/BIBEK SAHA/Desktop/Assignment/css/images/IMAGE.jpg");
+	background-attachment: fixed;
+	background-position :cover ;
+	
+	
+}
+h1{  
+    
+	color : red ;
+	font-family : Arial Black;
+	font-size : 40pt;
+	text-align: center;
+	
+	
+	
+}
+h2{
+	font-family : Verdana;
+	font-size : 40px;
+	font-style : bold;
+	color : #ffff00;
+}
+h3{
+	font-family : Arial;
+	font-size : 40px;
+	font-style : bold;
+	color : green;
+}
+img{
+		
+		
+		
+		
+		
+	}
+	
+p1{
+	font-family : Verdana;
+	font-size : 28pt;
+	font-style : bold;
+	position : relative;
+	left : 750px;
+}
+p2{
+	font-family : ALGERIAN;
+	font-size : 25px;
+	font-style : normal;
+	color : #800000;
+}
+p3{
+	font-family : Arial;
+	font-size : 25px;
+	font-style : italic;
+	color : red;
+}
