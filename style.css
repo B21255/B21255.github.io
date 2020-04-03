@@ -1,7 +1,7 @@
 body{
 	background-image : url(" https://raw.githubusercontent.com/b21255/b21255.github.io/master/IMAGE.jpg");
 	background-repeat : no-repeat;
-	background-size : 150px 150px;
+	background-size : cover;
 	background-attachment: fixed;
 	background-position : center ;
 	background-color : brown;
