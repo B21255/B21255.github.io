@@ -1,7 +1,7 @@
 body{
 	background-image : url(" https://raw.githubusercontent.com/b21255/b21255.github.io/master/IMAGE.jpg");
 	background-repeat : no-repeat;
-	background-size : 350px 175px;
+	background-size : 150px 150px;
 	background-attachment: fixed;
 	background-position : center ;
 	background-color : brown;
@@ -62,3 +62,20 @@ table,th,td {
 	border-collapse : collapse;
 	
 }
+pre {
+	color : red;
+	font-size :18pt;
+	
+	
+}
+a#link3{
+	background-color : pink;
+	text-align : center;
+	
+	
+	
+	
+	
+	
+	
+} 
