@@ -4,7 +4,7 @@ body{
 	background-size : cover;
 	background-attachment: fixed;
 	background-position : center ;
-	background-color : brown;
+
 	
 	
 }
@@ -30,14 +30,6 @@ h3{
 	font-style : bold;
 	color : green;
 }
-img{
-		
-		
-		
-		
-		
-	}
-	
 p1{
 	font-family : Verdana;
 	font-size : 28pt;
@@ -60,6 +52,10 @@ p3{
 table,th,td {
 	border : 1px solid black;
 	border-collapse : collapse;
+}
+td{
+	
+	color : yellow;
 	
 }
 pre {
@@ -70,12 +66,5 @@ pre {
 }
 a#link1{
 	background-color : pink;
-	text-align : center;
-	
-	
-	
-	
-	
-	
-	
+	text-align : center;	
 } 
