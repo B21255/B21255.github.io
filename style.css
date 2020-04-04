@@ -1,10 +1,10 @@
 body{
-	background-image : url("https://raw.githubusercontent.com/b21255/b21255.github.io/master/background.jpg");
+	background-image : url("https://raw.githubusercontent.com/b21255/b21255.github.io/master/background.jpg");url("https://raw.githubusercontent.com/b21255/b21255.github.io/master/animation.jpg");
 	background-repeat : no-repeat;
 	background-size : cover;
 	background-attachment: fixed;
 	background-position : center ;
-
+    
 	
 	
 }
