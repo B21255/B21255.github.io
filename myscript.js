@@ -1,3 +1,3 @@
-function msg()  
+function msg()  {
  alert("Hello Bibek");  
 }  
