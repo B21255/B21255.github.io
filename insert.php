@@ -10,7 +10,7 @@ $DateofBirth=$_POST['dob'];
    $dbPassword = "";
    $dbname = "register";
     // create connection 
-   $conn =new mysqli($host,$dbUsername.$dbPassword,$dbname);
+   $conn =new mysqli($host,$dbUsername,$dbPassword,$dbname);
      if(mysqli_connect_error()){
 		 die('Connect_Error('.mysqli_connect_errno().')'.mysqli_connect_error());
 	 }
