@@ -65,5 +65,33 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 <h5>    <!comment = I create heading four here and  inside that I put the image>
 <img src ="https://raw.githubusercontent.com/b21255/b21255.github.io/master/img1.JPG"  alt=  "This is my image" height="75" width="50" >  
 </h5>
+<h6 style="color:red;font-size:24pt">Submit the form</h6>
+<form action="insert.php" method="POST">
+<table>
+<tr>
+<td>First Name:</td>
+<td><input type="text" placeholder="First Name"name="fname" required></td>
+</tr>
+<tr>
+<td>Last Name:</td>
+<td><input type="text" placeholder="Last Name" name="lname" required></td>
+</tr>
+<tr>
+<td>Gender:</td>
+<td><input type="radio"  name="gender" value="m" required>Male
+<input type="radio"  name="gender" value="f" required>Female
+</td>
+</tr>
+<tr>
+<td>Date of birth:</td>
+<td><input type="text" placeholder="yyyy-mm-dd"name="dob" required></td>
+</tr>
+<tr>
+<td><input type="Submit" value="Submit" name="Submit"></td>
+</tr>
+</table>
+</form>
+
+
 </body>
 </html>
